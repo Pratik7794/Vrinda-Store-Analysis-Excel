@@ -1,6 +1,6 @@
 # Vrinda Store Data Analysis - Excel
 
-Vrinda Store Data Analysis project aims to provide insights into the sales performance of Vrinda Store for the year 2022.Through data cleaning, processing, analyzing and visualization in Excel
+Vrinda Store Data Analysis project aims to provide insights into the sales performance of Vrinda Store for the year 2022. Through data cleaning, processing, analyzing and visualization in Excel
 
 
 # Objective
