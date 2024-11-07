@@ -10,4 +10,12 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 # Process
 
+• Dataset collected from online.
 
+• Data Cleaning & Processing in Excel
+
+• Analyze the Data
+
+• Excel Dashboard setup
+
+• Data Visualization.
