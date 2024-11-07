@@ -1,1 +1,1 @@
-# Vrinda-Stor-Analysis-Excel
+# Vrinda Store Data Analysis Using Excel
