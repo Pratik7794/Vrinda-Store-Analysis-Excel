@@ -32,7 +32,7 @@ The analysis addresses the following key questions
    
 2.	Top Performing Month: Identifying the month with the highest sales and orders.
    
-3.	Gender Analysis: Determining whether men or women made more purchases in 2022.
+3.	Gender Analysis: Who made more purchase in 2022 Women or Men.
    
 4.	Top Contributing States: Listing the top 5 states driving sales.
    
