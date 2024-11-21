@@ -28,19 +28,20 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 The analysis addresses the following key questions
 
-1.	Comparative Analysis: Visualizing sales and orders in a single chart.
-   
-2.	Top Performing Month: Identifying the month with the highest sales and orders.
-   
-3.	Gender Analysis: Who made more purchase in 2022 Women or Men.
-   
-4.	Top Contributing States: Listing the top 5 states driving sales.
-   
-5.	Age-Gender Correlation: Exploring the relationship between age and gender concerning order count.
-   
-6.	Channel Performance: Determining the channel contributing to maximum sales.
 
-7.	Highest Selling Category: Identifying the highest selling product category
+• 	Comparative Analysis: Visualizing sales and orders in a single chart.
+   
+• 	Top Performing Month: Identifying the month with the highest sales and orders.
+   
+• 	Gender Analysis: Who made more purchase in 2022 Women or Men.
+   
+• 	Top Contributing States: Listing the top 5 states driving sales.
+   
+• 	Age-Gender Correlation: Exploring the relationship between age and gender concerning order count.
+   
+• 	Channel Performance: Determining the channel contributing to maximum sales.
+
+• 	Highest Selling Category: Identifying the highest selling product category
 
 
 # Project Insights
